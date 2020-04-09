@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.1] - 2020-04-09
 ### Changed
 - Add link to tags on readme
+### Added
+- Build dir with unformatted index.html
 
 ## [Released]
 
