@@ -7,6 +7,8 @@ Het werkje is een boeiend tijdsdocument over WO II in Meulebeke & Ingelmunster.
 
 ZES JAAR UIT MIJN LEVEN 1939-1945 door Gustaaf STRAGIER
 
+Published on [https://tilde.club/~miccaman/ikwerd20in45/](https://tilde.club/~miccaman/ikwerd20in45/)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -29,7 +31,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-Tankred
+Text: Gustaaf Stragier
+html: Tankred
 
 ## License
 
@@ -40,5 +43,7 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 * Hat tip to anyone whose code was used
 * [http://www.mulenbeca.be/?p=490](http://www.mulenbeca.be/?p=490)
 * [pallas.cegesoma.be/](https://bit.ly/2XpA32h)
+* Font: Abyssinica SIL, designed by Victor Gaultney and Lorna Priest
+* Modular rule by Le Corbusier to define white space
 
 
