@@ -1,0 +1,15 @@
+/* mobile first */
+/* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
+/*'Fira Code', */
+body {
+  font-family: 'Abyssinica SIL', 'Bitstream Charter', Georgia, serif;
+  font-size: 1.62em;
+}
+#container {
+  margin: 1.24em;
+}
+
+/* desktop: */
+@media only screen and (min-width: 768px) {
+  /* 1, 1.24, 1.62, 2, 2.62, 3.24, 4.24, 5.24 */
+}
