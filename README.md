@@ -39,6 +39,6 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 * Hat tip to anyone whose code was used
 * [http://www.mulenbeca.be/?p=490](http://www.mulenbeca.be/?p=490)
-* [http://pallas.cegesoma.be/pls/opac/opac.search?lan=F&seop=6&sele=3&sepa=1&doty=&sest=izegem \(belgique\)&chna=&senu=83336&rqdb=1&dbnu=1](http://pallas.cegesoma.be/pls/opac/opac.search?lan=F&seop=6&sele=3&sepa=1&doty=&sest=izegem \(belgique\)&chna=&senu=83336&rqdb=1&dbnu=1)
+* [pallas.cegesoma.be/](https://bit.ly/2XpA32h)
 
 

@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.5.0] - 2020-04-11
+### Changed
+- Bump version 0.5.0
+- Shorturl to pallas.cegesoma.be (readme)
+
 ## [0.3.0] - 2020-04-11
 ### Changed
 - Add html formatting to content
@@ -17,8 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add link to tags on readme
 ### Added
 - Build dir with unformatted index.html
-
-## [Released]
 
 ## [0.2.0] - 2020-04-09
 ### Changed
