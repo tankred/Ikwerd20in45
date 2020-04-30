@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.2] - 2020-04-30
+### Changed
+- This changelog, just in order to create a PR using 
+  hub pr -m "msg" 
+
 ## [0.5.1] - 2020-04-11
 ### Changed
 - Added modular rule by Le Corbusier to define whitespace
