@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.6.0] - 2020-07-04
+### Changed
+- Add more whitepace after title (css)
+- Merge develop into master
+
 ## [0.5.2] - 2020-04-30
 ### Changed
 - This changelog, just in order to create a PR using 
@@ -14,8 +21,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.5.1] - 2020-04-11
 ### Changed
 - Added modular rule by Le Corbusier to define whitespace
-
-## [Released]
 
 ## [0.6.0] - 2020-05-15
 ### Changed
