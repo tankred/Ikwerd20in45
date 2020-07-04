@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.6.2] - 2020-07-04
+### Changed
+- Add whitespace for all breakpoints
+
 ## [Released]
 
 ## [0.6.1] - 2020-07-04

@@ -18,16 +18,22 @@ body {
     margin: 1.24em 5.24em;
   }
   h3 {
-    padding-bottom: 4.24em;
+    padding-bottom: 2.62em;
   }
 }
 @media only screen and (min-width: 1408px) and (max-width:1741px)  {
   #container {
     margin: 1.53em 17em;
   }
+  h3 {
+    padding-bottom: 3.24em;
+  }
 }
 @media only screen and (min-width: 1742px) {
   #container {
     margin: 1.53em 21em;
+  }
+  h3 {
+    padding-bottom: 4.24em;
   }
 }
