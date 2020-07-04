@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.6.1] - 2020-07-04
+### Changed
+- Tag 0.6.1
+
 ## [0.6.0] - 2020-07-04
 ### Changed
 - Add more whitepace after title (css)
