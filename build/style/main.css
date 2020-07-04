@@ -17,6 +17,9 @@ body {
   #container {
     margin: 1.24em 5.24em;
   }
+  h3 {
+    padding-bottom: 4.24em;
+  }
 }
 @media only screen and (min-width: 1408px) and (max-width:1741px)  {
   #container {
